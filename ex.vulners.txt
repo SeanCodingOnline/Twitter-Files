@@ -1,0 +1,25 @@
+(1)CVSS:0.0 7 Predictions for Ransomware’s Evolution https://www.carbonblack.com/2017/09/22/7-predictions-ransomwares-evolution/
+(2)CVSS:7.5 The Aerospike Database Server Fabric-Worker Socket-Loop Denial-of-Service Vulnerabili https://www.seebug.org/vuldb/ssvid-96567
+(3)CVSS:7.5 Ichitaro Office JTD Figure handling Code Execution Vulnerability(CVE-2017-2789) https://www.seebug.org/vuldb/ssvid-96566
+(4)CVSS:7.5 The Aerospike Database Server RW Fabric Message Particle Type Code Execution Vulnerab https://www.seebug.org/vuldb/ssvid-96568
+(5)CVSS:7.6 Apple GarageBand Out of Bounds Write Code Execution Vulnerability(CVE-2017-2374) https://www.seebug.org/vuldb/ssvid-96572
+(6)CVSS:7.6 Apple GarageBand Out of Bounds Write Code Execution Vulnerability(CVE-2017-2372) https://www.seebug.org/vuldb/ssvid-96570
+(7)CVSS:7.5 Regular Expression Denial of Service https://nodesecurity.io/advisories/531
+(8)CVSS:0.0 samba4 security update http://lists.centos.org/pipermail/centos-announce/2017-September/022544.html
+(9)CVSS:0.0 libsmbclient, samba security update http://lists.centos.org/pipermail/centos-announce/2017-September/022543.html
+(10)CVSS:0.0 ISO Rejects NSA Encryption Algorithms https://www.schneier.com/blog/archives/2017/09/iso_rejects_nsa.html
+(11)CVSS:5.0 Fedora 25 : libwmf (2017-d361de1a65) https://www.tenable.com/plugins/index.php?view=single&id=103367
+(12)CVSS:3.5 VMware vCenter Server 6.5.x < 6.5u1 H5 Client Stored XSS (VMSA-2017-0015) https://www.tenable.com/plugins/index.php?view=single&id=103377
+(13)CVSS:9.3 Iceni Argus icnChainAlloc Signed Comparison Code Execution Vulnerability(CVE-2016-871 https://www.seebug.org/vuldb/ssvid-96558
+(14)CVSS:0.0 PHPMyFAQ 2.9.8 - Cross-Site Scripting https://www.exploit-db.com/exploits/42761/
+(15)CVSS:5.0 Fedora 26 : mpg123 (2017-c89d94d812) https://www.tenable.com/plugins/index.php?view=single&id=103366
+(16)CVSS:0.0 Slackware 14.0 / 14.1 / 14.2 / current : samba (SSA:2017-263-01) https://www.tenable.com/plugins/index.php?view=single&id=103361
+(17)CVSS:0.0 SUSE SLED12 / SLES12 Security Update : emacs (SUSE-SU-2017:2529-1) https://www.tenable.com/plugins/index.php?view=single&id=103369
+(18)CVSS:9.3 The latest exposure of the RTF vulnerability beside the use of research to explore th http://www.myhack58.com/Article/html/3/62/2017/89425.htm
+(19)CVSS:9.3 Iceni Argus TrueType Font File Cmap Table Code Execution Vulnerability(CVE-2016-8386) https://www.seebug.org/vuldb/ssvid-96560
+(20)CVSS:7.6 Debian DSA-3981-1 : linux - security update (BlueBorne) (Stack Clash) https://www.tenable.com/plugins/index.php?view=single&id=103365
+(21)CVSS:0.0 CentOS 7 : emacs (CESA-2017:2771) https://www.tenable.com/plugins/index.php?view=single&id=103362
+(22)CVSS:0.0 SUSE SLES11 Security Update : emacs (SUSE-SU-2017:2532-1) https://www.tenable.com/plugins/index.php?view=single&id=103370
+(23)CVSS:0.0 SUSE SLES12 Security Update : kernel (SUSE-SU-2017:2534-1) (BlueBorne) https://www.tenable.com/plugins/index.php?view=single&id=103371
+(24)CVSS:7.5 Ubuntu 14.04 LTS / 16.04 LTS / 17.04 : qemu regression (USN-3414-2) https://www.tenable.com/plugins/index.php?view=single&id=103372
+(25)CVSS:0.0 Citrix XenServer Multiple Vulnerabilities (CTX227185) https://www.tenable.com/plugins/index.php?view=single&id=103381
