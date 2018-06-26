@@ -1,11 +1,12 @@
 import tweepy
 import time, random
+from keys import keys
 
-#Twitter OAuth - From Twitter 'apps'
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
-ACCESS_TOKEN = ''
-ACCESS_TOKEN_SECRET = ''
+#Twitter OAuth - From Twitter 'apps', entire calid auth information in keys.py file and add your own keys.py to .gitignore
+CONSUMER_KEY = keys['consumer_key']
+CONSUMER_SECRET = keys['consumer_secret']
+ACCESS_TOKEN = keys['access_token']
+ACCESS_TOKEN_SECRET = keys['access_token_secret']
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 
